@@ -5235,3 +5235,5 @@ blog.goo.ne.jp##.navbar__link--bottom
 eiga.com##.header-pure-banner
 !
 ||healthy-vape.shop/user_data/packages/*/img/banner/bnr_debut_gray.png
+! Baidu Netdisk Ads
+pan.baidu.com##.nd-operate-guidance
